@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://silver:123qwe@mernstack-fyvra.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret",
+    "email": "ssx.mpl@gmail.com",
+    "emailpass": "silver.x",
+    "emailreceive": "silver@grr.la"
+}
